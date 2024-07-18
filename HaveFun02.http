@@ -1,0 +1,6 @@
+@HaveFun02_HostAddress = http://localhost:5082
+
+GET {{HaveFun02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
